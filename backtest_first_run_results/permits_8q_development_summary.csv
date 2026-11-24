@@ -1,0 +1,2 @@
+Predictor,Horizon (quarters),First reference quarter,Last reference quarter,Forecasts,MAE,RMSE,Bias
+permits_yoy,8,2015-01-01,2018-07-01,15,2.693030299931516,3.9469424977407863,0.18866164692892226
